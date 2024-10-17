@@ -21,7 +21,6 @@ This Bash script creates a visually appealing, centered countdown timer in your 
    ```
     git clone git@github.com:seanzamora/bash-pomodoro.git
    ```
-   Replace the URL with the actual location of your script.
 
 2. Make the script executable:
    ```
