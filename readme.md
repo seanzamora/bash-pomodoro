@@ -1,4 +1,4 @@
-# Centered Visual Countdown Timer
+# Centered Visual Pomodoro Timer
 
 This Bash script creates a visually appealing, centered countdown timer in your terminal window. It features a colorful progress bar and real-time updates.
 
